@@ -33,8 +33,8 @@ public class DataAdapter extends ArrayAdapter<UserData> {
 
         if (data != null) {
             tvNama.setText(data.getNama());
-            tvNimProdi.setText(data.getNim() + " - " + data.getProdi());
-            tvDetail.setText("Kelas: " + data.getKelas() + " | Email: " + data.getEmail());
+            tvNimProdi.setText(data.getNim() + " | " + data.getProdi() + " | " + data.getKelas());
+            tvDetail.setText("Alamat: " + data.getAlamat() + "\nEmail: " + data.getEmail());
         }
 
         return convertView;
