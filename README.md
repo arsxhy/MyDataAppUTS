@@ -30,7 +30,7 @@ Aplikasi **MyDataApp** adalah proyek Ujian Tengah Semester (UTS) untuk mata kuli
 
 |                        Halaman Login                         |                          Halaman Dashboard                           |
 |:------------------------------------------------------------:|:--------------------------------------------------------------------:|
-| ![Login Screen](assets/Screenshot_20260518_185736-Login.png) | ![Dashboard Screen](assets/Screenshot_20260518_190657-Dashboard.png) |
+| ![Login Screen](assets/Screenshot_20260518_185736-Login.png) | ![Dashboard Screen](assets/Screenshot_20260518_192648-Dashboard.png) |
 
 ## 🛠️ Cara Menjalankan
 1. Clone repository ini ke komputer Anda.
